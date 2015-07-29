@@ -7,3 +7,5 @@ ES6 code is translated to ES5 dynamically in browser using [Babel](https://babel
 ## Usage
 
 Install dependencies using `npm install`. Then run local web-server using `npm run server`.
+
+You can also visit [github pages](https://akrn.github.io/todomvc-backbone-babel/) to play around with the application
